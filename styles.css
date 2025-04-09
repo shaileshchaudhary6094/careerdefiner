@@ -279,7 +279,7 @@ nav {
 /* About section */
 
 .steps {
-  background-image: url("assets/steps-bg.png");
+  background-image: url("./steps-bg.png");
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
